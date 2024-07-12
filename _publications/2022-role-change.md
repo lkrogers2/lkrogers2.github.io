@@ -2,7 +2,7 @@
 title: "Is role change enough? District organizational supports for principal supervision"
 collection: publications
 permalink: /publication/2022-role-change
-excerpt: 'District school improvement efforts have increasingly focused on improving the quality of support principals receive from the central office. This study uses the theoretical lens of recoupling to examine efforts by one urban district in the midst of change to revise the role of principal supervisors. Analysis focuses on how district organizational structures and systems supported (or did not support) principal supervisors\' work in the new role.'
+excerpt: 'A case study of principal supervisor role change in an urban district.'
 date: 2022-02-28
 venue: 'Educational Administration Quarterly'
 paperurl: 'https://doi.org/10.1177/0013161X221081828'
