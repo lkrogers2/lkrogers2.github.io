@@ -1,7 +1,7 @@
 ---
 title: "Is role change enough? District organizational supports for principal supervision"
 collection: publications
-permalink: /publication/2022-role-change
+permalink: /publications/2022-role-change
 excerpt: 'A case study of principal supervisor role change in an urban district.'
 date: 2022-02-28
 venue: 'Educational Administration Quarterly'
