@@ -3,6 +3,6 @@
 Name Name:
   name        : "Laura Rogers"
   uri         : "https://lkrogers2.github.io"
-  email       : "laura.rogers@utah.edu"
+ # email       : "laura.rogers@utah.edu"
   bio         : "Laura Rogers"
-  avatar      : "bio-photo-2.jpg"
+  avatar      : "laura.png"
