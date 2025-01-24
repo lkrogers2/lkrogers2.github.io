@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: https://lkrogers2.github.io/cv/
 author_profile: true
 redirect_from:
   - /resume
