@@ -21,7 +21,7 @@ repository               : "lkrogers2/lkrogers2.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/files/laura.jpg"
   name             : "Laura K. Rogers"
   pronouns         : "she/her"  
   bio              : "Assistant professor"
