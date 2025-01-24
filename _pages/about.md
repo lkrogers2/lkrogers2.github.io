@@ -11,19 +11,3 @@ I am an assistant professor in the Department of Educational Leadership and Poli
 
 I am passionate about helping education leaders to be data literate consumers of research.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This webpage was created with a template from [academicpages.github.io](http://academicpages.github.io).
