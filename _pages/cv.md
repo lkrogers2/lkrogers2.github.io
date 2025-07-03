@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://drive.google.com/file/d/1WhylsBxw_pufhR0lhaFGWX2L3aZ63jAI/view) to view my CV.
+Click [here](https://drive.google.com/file/d/1B8K-rapsj0FhLcpIMlrWtIMmOEyqyVLn/view?usp=sharing) to view my CV.
