@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Principal burnout"
+excerpt: "Understanding how school principals experience occupational burnout, its effects on principals and schools, and what can be done to prevent it.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project began with a systematic review of principal burnout (working paper available here). Over time, we plan to build a stronger empirical base for our knowledge of principal burnout, including its measurement, causes, and effects on principals and schools. 
